@@ -1,0 +1,14 @@
+C:\AspCoreGit\ApiWeb\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.deps.json
+C:\AspCoreGit\ApiWeb\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.json
+C:\AspCoreGit\ApiWeb\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.runtimeconfig.dev.json
+C:\AspCoreGit\ApiWeb\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.dll
+C:\AspCoreGit\ApiWeb\TodoApi\bin\Debug\netcoreapp2.1\TodoApi.pdb
+C:\AspCoreGit\ApiWeb\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csprojAssemblyReference.cache
+C:\AspCoreGit\ApiWeb\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.csproj.CoreCompileInputs.cache
+C:\AspCoreGit\ApiWeb\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cache
+C:\AspCoreGit\ApiWeb\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorAssemblyInfo.cs
+C:\AspCoreGit\ApiWeb\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfoInputs.cache
+C:\AspCoreGit\ApiWeb\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.AssemblyInfo.cs
+C:\AspCoreGit\ApiWeb\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.RazorTargetAssemblyInfo.cache
+C:\AspCoreGit\ApiWeb\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.dll
+C:\AspCoreGit\ApiWeb\TodoApi\obj\Debug\netcoreapp2.1\TodoApi.pdb
