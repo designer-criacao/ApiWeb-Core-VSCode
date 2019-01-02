@@ -45,8 +45,15 @@ namespace TodoApi.Controllers
 
             return todoItem;
         }
+
+        //POST: api/Todo
+        [HttpPost]
+        public async Task<ActionResult<TodoItem>> PostTodoItem(TodoItem todoItem)
+        {
+            _context.TodoItems.Add(todoItem);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtAction("GetTodoItem", new { id = todoItem.Id }, todoItem);
+        }
     }
 }
-
-//Inicio 30/12 - Pausa na parte de Roteamento e Caminhos de URL
-//https://docs.microsoft.com/pt-br/aspnet/core/tutorials/first-web-api?view=aspnetcore-2.2&tabs=visual-studio-code
